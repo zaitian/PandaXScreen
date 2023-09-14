@@ -1,15 +1,9 @@
-# 组态大屏、规则链
+# 组态大屏
 
 <div align="center"><h3 align="center">物联网低代码引擎-组态大屏、规则链、报表系统</h3></div>
 <div align="center"><h3 align="center">组态大屏、规则链、报表系统，基于 Vue3 + TypeScript + vite3 + Element-plus技术完成</h3></div>
 
 <img src="image/zt.gif"/>
-<table>
-    <tr>
-        <td><img src="image/report.png"/></td>
-        <td><img src="image/rule.png"/></td>
-    </tr>
-</table>
 
 ---
 
@@ -26,7 +20,6 @@
 - <span class="tag done-tag">✔</span> **`装饰框`** - _装饰框_
 - <span class="tag done-tag">✔</span> **`报表节点`** - _根据数据源生成报表。_
 - <span class="tag done-tag">✔</span> **`规则链设计`** - _规则链设计，作为物联网数据的链路过滤。_
-- <span class="tag done-tag">✔</span> **`在线报表设计`** - _可对设备数据，基础数据进行拖拽生成报表。_
 
 ## 案例1
 <img src="image/al1.png"/>
